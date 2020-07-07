@@ -1,0 +1,7 @@
+Inspired by software debugging and regression testing techniques,
+we propose and develop MODE , an automated neural network
+debugging technique powered by state differential analysis and
+input selection. It can help identify buggy neurons and measure
+their importance to guide the new input sample selection. MODE
+can construct high quality training datasets that effectively and
+efficiently fix model bugs without introducing new bugs.
